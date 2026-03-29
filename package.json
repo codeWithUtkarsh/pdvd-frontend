@@ -10,13 +10,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "16.0.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "@mui/material": "^7.0.0",
-    "@mui/icons-material": "^7.0.0",
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5"
+    "next": "16.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "@mui/material": "^7.3.9",
+    "@mui/icons-material": "^7.3.9",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
